@@ -4,7 +4,10 @@
 /public/hot
 /public/storage
 /storage/*.key
+<<<<<<< HEAD
 /storage/pail
+=======
+>>>>>>> d12024cd385c50878b7a6bd87cb001e9bc632614
 /vendor
 .env
 .env.backup
@@ -18,6 +21,9 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
+<<<<<<< HEAD
 /.nova
+=======
+>>>>>>> d12024cd385c50878b7a6bd87cb001e9bc632614
 /.vscode
 /.zed

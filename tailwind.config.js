@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import defaultTheme from 'tailwindcss/defaultTheme';
 
 /** @type {import('tailwindcss').Config} */
@@ -18,3 +19,14 @@ export default {
     },
     plugins: [],
 };
+=======
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+>>>>>>> d12024cd385c50878b7a6bd87cb001e9bc632614
