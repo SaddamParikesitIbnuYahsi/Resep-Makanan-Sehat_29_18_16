@@ -26,13 +26,10 @@ class AdminPanelProvider extends PanelProvider
             ->default()
             ->id('admin')
             ->path('admin')
+            ->brandLogo(asset('img/logo.jpg'))
             ->login()
             ->colors([
-<<<<<<< HEAD
-                'primary' => Color::Green,
-=======
-                'primary' => Color::Amber,
->>>>>>> d12024cd385c50878b7a6bd87cb001e9bc632614
+                'primary' => Color::Green, // Pilih warna di sini (Green atau Amber)
             ])
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\\Filament\\Resources')
             ->discoverPages(in: app_path('Filament/Pages'), for: 'App\\Filament\\Pages')

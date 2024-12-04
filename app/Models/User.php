@@ -9,10 +9,6 @@ use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable
 {
-<<<<<<< HEAD
-    /** @use HasFactory<\Database\Factories\UserFactory> */
-=======
->>>>>>> d12024cd385c50878b7a6bd87cb001e9bc632614
     use HasFactory, Notifiable;
 
     /**
