@@ -51,55 +51,55 @@
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/capcay udang.jpg" alt="CU" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Capcay Udang</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="cu" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 2 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                     <img src="img/sop bening.jpg" alt="Sop Bening" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Sop Bening</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="sopbening" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 3 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/ayam panggang.jpg" alt="Sapi Lada Hitam" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Ayam Panggang</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="ayap" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 4 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/gurame asam manis.jpg" alt="Pecel" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Gurame Asam Manis</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="gurame" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 5 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/nasi bakar ayam suwir kemangi.jpg" alt="Ayam Panggang" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Nasi Bakar Ayam Suwir Kemangi</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="nasi" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 6 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                     <img src="img/pepes ayam.jpg" alt="Ayam Panggang" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Pepes Ayam</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="pepes" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 7 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                     <img src="img/steak ayam.jpg" alt="Ayam Black Pepper" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Steak Ayam</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="steak" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 8 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/bola daging.jpg" alt="Bola Daging" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Bola Daging</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="bola" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 9 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/sate ikan tengiri.jpg" alt="Salad Pasta" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Sate Ikan Tengiri</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="sate" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                 </div>
             </section>

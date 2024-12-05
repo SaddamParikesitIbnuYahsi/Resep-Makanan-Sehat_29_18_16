@@ -51,55 +51,55 @@
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/oatmeal telur.jpg" alt="Oatmeal Telur" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Oatmeal Telur</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="oatmeal" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 2 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/pancake oatmeal kurma.jpg" alt="Pancake Oatmeal Kurma" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Pancake Oatmeal Kurma</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="pancake" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 3 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/smoothies oatmeal stoberi pisang.jpg" alt="Smoothies Oatmeal Stroberi Pisang" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Smoothies Oatmeal Stroberi Pisang</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="smoothies" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 4 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/sandwich.jpg" alt="Sandwich" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Sandwich</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="sandwich" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 5 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/capcay.jpg" alt="Capcay Telur" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Capcay Telur</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="capcay" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 6 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/salad.jpg" alt="Salad" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Salad</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="salad" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 7 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/telur tahu kukus.jpg" alt="Telur Tahu Kukus" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Telur Tahu Kukus</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="tahu" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 8 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/Omlet Daging Ayam.jpg" alt="Omlet Daging Ayam" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Omlet Daging Ayam</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="omlet" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                     <!-- Card 9 -->
                     <div class="bg-gray-800 rounded-lg p-4 flex flex-col items-center shadow-lg">
                         <img src="img/salad dada ayam.jpg" alt="Salad Dada Ayam" class="rounded-lg w-full h-32 object-cover mb-4">
                         <h3 class="text-lg font-semibold text-white">Salad Dada Ayam</h3>
-                        <button class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</button>
+                        <button class="mt-4"><a href="sda" class="bg-indigo-600 text-white px-4 py-2 mt-2 rounded-lg hover:bg-indigo-700 transition">Lihat</a></button>
                     </div>
                 </div>
             </section>
