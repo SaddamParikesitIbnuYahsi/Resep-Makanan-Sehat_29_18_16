@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Waliyan</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    @vite('resources/css/app.css')
+     @vite('resources/css/app.css')
 </head>
 <body class="bg-gray-900 text-gray-100 font-poppins">
     <div class="flex">

@@ -7,11 +7,8 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index(){
-    $Breakfasts = Breakfast::all();
-    $Dinners = Dinner::all();
-
-    return view("index", compact('breakfast','Breakfasts'));
-    }   
+        return view('index');
+    }  
     public function breakfast(){
         return view('breakfast');
     }  

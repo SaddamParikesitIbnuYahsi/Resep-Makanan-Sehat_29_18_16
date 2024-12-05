@@ -1,17 +1,20 @@
 <?php
 
+use App\Livewire\Lunch;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 
 Route::get('/welcome', function () {
     return view('welcome');
 });
+
+Route::get('/lunch', Lunch::class);
+
+
 Route::get('/', function () {
     return view('index'); // ini merujuk ke halaman index.blade.php
 });
-Route::get('/breakfast', function () {
-    return view('breakfast'); // ini merujuk ke halaman index.blade.php
-});
+Route::get('/breakfast'::class);
 Route::get('/dinner', function () {
     return view('dinner'); // ini merujuk ke halaman index.blade.php
 });
